@@ -1,3 +1,12 @@
+#Inspiration
+The recent hospital price transparency regulations that took effect this year have made a large amount of valuable data available. This project was inspired to take advantage of that data and create a tool to properly utilize it.
+
+#What it does
+This web app displays released hospital information in a readable form on a table. It compiles data from csv files on hospital websites and displays the hospital name and location. And for each hospital, it also lists each procedure that can be done as well as its description, price, and if it is insured as well as who it is insured by. Users can sort and filter the hospitals by name, location, procedure, description, price, and insurance in both ascending and descending order. Users can also upload new csv files for hospitals that are not shown on the table.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
